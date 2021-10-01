@@ -12,7 +12,7 @@ To get the game up & running on your system, just download the ```BrickOut.exe``
 
 ## Screenshot
 
-[![Screenshot](https://github.com/vedantshinde/brick-breaker-game/blob/master/Documentation/screenshot.png)]
+![Screenshot](https://github.com/vedantshinde/brick-breaker-game/blob/master/Documentation/screenshot.png)
 
 ## Usage
 
